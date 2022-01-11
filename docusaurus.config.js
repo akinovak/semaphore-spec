@@ -51,16 +51,8 @@ module.exports = {
                         title: "Docs",
                         items: [
                             {
-                                label: "Welcome",
+                                label: "Introduction",
                                 to: "/"
-                            },
-                            {
-                                label: "Technical overview",
-                                to: "/technical-overview/intro"
-                            },
-                            {
-                                label: "API",
-                                to: "/api"
                             },
                             {
                                 label: "References",

@@ -22,7 +22,7 @@ An identity commitment is the Pedersen hash of:
 To register an identity, the user must insert their identity commitment into
 Semaphore's identity tree. They can do this by calling the Semaphore contract's
 `insertIdentity(uint256 _identityCommitment)` function. See the [API
-reference](./api.html) for more information.
+reference](./contract-api) for more information.
 
 ## Broadcasting signals
 

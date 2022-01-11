@@ -69,7 +69,7 @@ database or somewhere safe, use `serialiseIdentity()` and
 `unSerialiseIdentity()`.
 
 See the [Usage section on inserting
-identities](./usage.html#insert-identities) for more information.
+identities](./usage#insert-identities) for more information.
 
 ## Broadcast signals
 
@@ -103,4 +103,4 @@ finally `genBroadcastSignalParams()` to generate the parameters to the
 contract's `broadcastSignal()` function.
 
 See the [Usage section on broadcasting
-signals](./usage.html#broadcast-signals) for more information.
+signals](./usage#broadcast-signals) for more information.
